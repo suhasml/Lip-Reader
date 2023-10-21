@@ -1,6 +1,6 @@
 streamlit
 imageio
-tesnorflow
+tensorflow
 typing
 opencv-python
 mediapipe
