@@ -8,7 +8,7 @@ from utils import load_data, num_to_char
 from modelLoad import load_model
 
 
-st.set_page_config(layout='wide', page_title='Lip Reader')
+st.set_page_config(layout='wide', page_title='Lip Reader', page_icon='https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png')
 
 
 # Setup the sidebar
